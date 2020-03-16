@@ -1,9 +1,9 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: Terrence Tran
+subtitle: My personal website to share with you my work
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://tertho.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -25,11 +25,11 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hello, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.
-author_email: "johndoe@gmail.com"
-author_location: India
-author_website_url: "http://johndoe.com"
+author: Terrence Tran
+author_bio: 
+author_email: "terrence.tran0@gmail.com"
+author_location: France
+author_website_url: "https://tertho.github.io/"
 
 author_work_experiences:
             - company_name: Google
@@ -66,16 +66,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+github_username:  tertho
+linkedin_username: terrencetran
+# facebook_username: johndoe
+# twitter_username: johndoe
+# behance_username: johndoe
+# instagram_username: johndoe
+# medium_username: johndoe
+# telegram_username: johndoe
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments using disqus
 disqus_shortname: sujay-kundu
