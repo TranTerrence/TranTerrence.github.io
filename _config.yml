@@ -32,25 +32,25 @@ author_location: France
 author_website_url: "https://tertho.github.io/"
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Ekkiden
+              company_logo: ekkiden.png
+              company_url: https://ekkiden.com
+              designation: Tech Lead
+              description: Analyse and optimise the process IT architecture of the company.
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
+            - company_name: Novade Solutions
+              company_logo: novade.png
               company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+              designation: Data and Software Engineer
+              description: Design a whole new BI visualisation product for the top managers of construction companies.
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: mines.png
+                college_name: MINES ParisTech
+                college_url: http://www.mines-paristech.fr/
+                college_degree: Executive Engineering Degree
+                description: Master of Technology, specialize in computer science, innovation and entrepreuneurship
                 visibility: true
 
 author_project_details:
@@ -58,12 +58,12 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
+                visibility: false
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
 github_username:  tertho
@@ -78,13 +78,13 @@ linkedin_username: terrencetran
 # flickr_username: johndoe
 
 #for comments using disqus
-disqus_shortname: sujay-kundu
+disqus_shortname: tertho
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: tertho
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+mailchimp_form_url: test.com
 
 # formspree (contact form)
 formspree_email: johndoe@gmail.com
