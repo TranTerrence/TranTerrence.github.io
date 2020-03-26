@@ -29,7 +29,7 @@ author: Terrence Tran
 author_bio: 
 author_email: "terrence.tran0@gmail.com"
 author_location: France
-author_website_url: "https://tertho.github.io/"
+author_website_url: "https://TranTerrence.github.io/"
 
 author_work_experiences:
             - company_name: Ekkiden
@@ -66,7 +66,7 @@ author_project_details:
                 visibility: false
 
 # social links
-github_username:  tertho
+github_username:  TranTerrence
 linkedin_username: terrencetran
 # facebook_username: johndoe
 # twitter_username: johndoe
@@ -78,10 +78,10 @@ linkedin_username: terrencetran
 # flickr_username: johndoe
 
 #for comments using disqus
-disqus_shortname: tertho
+disqus_shortname: TranTerrence
 
 # wakatime username (coding activity)
-wakatime_username: tertho
+wakatime_username: TranTerrence
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: test.com
